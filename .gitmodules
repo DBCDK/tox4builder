@@ -1,0 +1,3 @@
+[submodule "jjbuilder"]
+	path = jjbuilder
+	url = git@github.com:DBCDK/jjbuilder.git
